@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACb,eAAe,EAAE,IAAI;EACnB,OAAO,EAAE,YAAY",
+"sources": ["exam.scss"],
+"names": [],
+"file": "exam.css"
+}
